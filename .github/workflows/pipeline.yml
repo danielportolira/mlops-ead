@@ -1,4 +1,4 @@
-ame: Train-Pipeline
+name: Train-Pipeline
 
 on:
   push:
